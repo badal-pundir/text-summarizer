@@ -12,7 +12,7 @@ list_of_files = [
     f"src/{project_name}/__int__.py",
     f"src/{project_name}/components/__int__.py",
     f"src/{project_name}/utils/__int__.py",
-    f"src/{project_name}/utils/commpn.py",   
+    f"src/{project_name}/utils/common.py",   
     f"src/{project_name}/logging/__int__.py",
     f"src/{project_name}/config/__int__.py",
     f"src/{project_name}/config/configuration.py",
