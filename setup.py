@@ -8,7 +8,7 @@ __version__ = '0.0.0'
 
 REPO_NAME = "text-summarizer"
 AUTHOR_USER_NAME = "badal-pundir"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "textSummarizer"     # installing source repo so that it can be import
 AUTHOR_EMAIL = "badalpundir2@gmail.com"
 
 
